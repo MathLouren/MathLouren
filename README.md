@@ -24,4 +24,4 @@ Estudando JavaScript(Vuejs) 📕
  
 </div>
   
-  ![Snake animation](https://github.com/mathlouren/mathlouren/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/MathLouren/MathLouren/blob/output/github-contribution-grid-snake.svg)
