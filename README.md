@@ -1,4 +1,4 @@
-Olá, Eu sou Matheus Lourenço 👍👋
+Olá, Eu sou o Matheus Lourenço 👍👋
 
 Estudando JavaScript(Vuejs) 📕
 
