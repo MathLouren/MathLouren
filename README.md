@@ -1,6 +1,6 @@
 Olá, Eu sou o Matheus Lourenço 👍👋
 
-Estudando JavaScript(Vuejs) 📕
+Estudando Python, e Java 📕
 
 <div align="center">
   <a href="https://github.com/MathLouren">
