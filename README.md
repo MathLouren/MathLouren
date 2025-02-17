@@ -17,6 +17,9 @@ Estudando Python, e Java 📕
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  height="30" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  height="30" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" width="40" />
+  
+            <i class="devicon-python-plain colored"></i>
+          
 </div>
  </i>
  </head>
